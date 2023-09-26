@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aniket-linge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-linge" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lingeaniket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-linge" height="30" width="40" /></a>
 <a href="https://instagram.com/tejanik8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tejanik8" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aniket1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniket1010" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/lingeaniket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniket1010" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
