@@ -9,11 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lingeaniket&label=Profile%20views&color=0e75b6&style=flat" alt="lingeaniket" /> </p>
 
-- 🔭 I’m currently working on **Flipkart Clone**
+- 🔭 I’m currently working on **Instagram Clone**
 
 - 🌱 I’m currently learning **Front End Skills**
 
-- 💬 Ask me about **HTML, CSS, Java, Javascript, React**
+- 💬 Ask me about **HTML, CSS, Java, Javascript, React, MongoDB**
 
 - 📫 How to reach me **linge.aniket.10@gmail.com**
 
